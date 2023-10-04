@@ -47,7 +47,7 @@
 
 <h2>Final Result</h2>
 <p>
-  Complex Model_3 gives us R-squared (testing) score of 0.759. From above reports, we can conclude that Polynomial regression is best solution.
+  Complex Model_3 gives us R-squared (testing) score of 0.751. From above reports, we can conclude that Polynomial regression is best solution.
 </p>
 
 I hope you liked this project :) <br>
